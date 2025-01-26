@@ -1,0 +1,12 @@
+appId: com.example.arabickeyboardmapper
+productName: Arabic Keyboard Mapper
+directories:
+  output: dist
+  buildResources: public
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish: null
+
